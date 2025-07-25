@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Борщ",
+    "category": "Супи",
+    "price": 75,
+    "image": "/images/borshch.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Вареники з картоплею",
+    "category": "Вареники",
+    "price": 90,
+    "image": "/images/vareniki.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Гречка з м'ясом",
+    "category": "Гарніри",
+    "price": 65,
+    "image": "/images/grechka.jpg"
+  }
+]
